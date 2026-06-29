@@ -2,9 +2,7 @@ This is the GitHub repository for the paper **Verify then Segment: A Category-Aw
 
 ### Result Maps
 
-This repository provides the result maps produced by our model for **Paper Title**.
-
-Since the files are too large to be directly uploaded to GitHub, we provide them via Baidu Netdisk.
+This repository provides the result maps produced by our model via Baidu Netdisk.
 
 * **Baidu Netdisk:** [https://pan.baidu.com/s/18N1yPfFkWqnSowOunfGVSw?](Baidu Netdisk Link)
 * **PWD:** `2026`
