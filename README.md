@@ -4,7 +4,7 @@ This is the GitHub repository for the paper **Verify then Segment: A Category-Aw
 
 This repository provides the result maps produced by our model via Baidu Netdisk.
 
-* **Baidu Netdisk:** [https://pan.baidu.com/s/125YEZEzqB24QX5VlyANAIw](https://pan.baidu.com/s/125YEZEzqB24QX5VlyANAIw)]
+* **Baidu Netdisk:** [https://pan.baidu.com/s/125YEZEzqB24QX5VlyANAIw][(https://pan.baidu.com/s/125YEZEzqB24QX5VlyANAIw)]
 * **PWD:** `2026`
 
 After downloading, please extract the files and use the prediction maps for evaluation or comparison.
