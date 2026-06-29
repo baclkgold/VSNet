@@ -1,6 +1,6 @@
 This is the GitHub repository for the paper **Verify then Segment: A Category-Aware Constrained Framework for Referring Camouflaged Object Detection**.
 
-# Result Maps
+### Result Maps
 
 This repository provides the result maps produced by our model for **Paper Title**.
 
